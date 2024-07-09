@@ -43,6 +43,13 @@ body {
   color: #edf2f7;
 }
 
+.bg-icon{
+  background-color: #F97030;
+  border: #f7fafc;
+  border-radius: 10px;
+  padding: 10px;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
